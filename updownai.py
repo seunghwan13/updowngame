@@ -22,3 +22,5 @@ while True:
         else:
             print("다시 입력해주세요.")
             break
+
+# 왜 first를 25로 설정해두신거죠? 0으로 설정하는게 더 좋을 것 같은데요~
