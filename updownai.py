@@ -1,6 +1,6 @@
 num = int(input("1~100 사이의 수를 입력하세요"))
 
-first = 25
+first = 0
 last = 100
 print(first)
 val = input("up, down, answer 중 알맞은 값 하나를 입력하시오.")
