@@ -22,3 +22,6 @@ try:
 except Exception as player_num:
     print("{player_num}은 숫자가 아니거나 1~100 사이의 수가 아닙니다.")
 print("실패! 주어진 {0}번의 기회를 모두 소진했습니다.".format(str(try_count)))
+
+
+# 마지막에 에러가 발생합니다!
