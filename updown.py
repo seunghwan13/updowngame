@@ -24,4 +24,5 @@ except Exception as player_num:
 print("실패! 주어진 {0}번의 기회를 모두 소진했습니다.".format(str(try_count)))
 
 
-# 고치도록하겠습니다.
+# 아니오 제가 담당할건데요?
+
