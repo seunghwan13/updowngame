@@ -24,5 +24,5 @@ except Exception as player_num:
 print("실패! 주어진 {0}번의 기회를 모두 소진했습니다.".format(str(try_count)))
 
 
-# reset test 입니다.
+# hotfix 이것부터 하겠습니다.
 
