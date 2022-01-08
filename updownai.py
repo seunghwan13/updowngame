@@ -23,4 +23,4 @@ while True:
             print("다시 입력해주세요.")
             break
 
-# 최신수정완료했습니다.
+# amend test 중입니다.
